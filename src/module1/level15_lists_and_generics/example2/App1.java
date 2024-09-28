@@ -16,6 +16,8 @@ public class App1 {
 
         ArrayList<Object> someList = new ArrayList<>();
 
+        ArrayList<?> someAnotherList;
+
         ArrayList<Number> numbers = new ArrayList<>(); // Integer, Double, Float
 
     }
