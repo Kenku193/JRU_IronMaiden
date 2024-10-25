@@ -1,4 +1,4 @@
-package module1.level25_io2.game;
+package module1.level24_io2.game;
 
 public class FightGame {
     public static void main(String[] args) {

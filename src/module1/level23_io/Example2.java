@@ -1,6 +1,4 @@
-package module1.level24_io;
-
-import org.w3c.dom.ls.LSOutput;
+package module1.level23_io;
 
 import java.io.IOException;
 import java.io.InputStream;
