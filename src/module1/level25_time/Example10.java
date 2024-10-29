@@ -15,6 +15,8 @@ public class Example10 {
         LocalDate date = LocalDate.parse(console.nextLine(), formatter);
         System.out.println(date);
 
+        // Additional comment
+
 
     }
 }
