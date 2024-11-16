@@ -1,4 +1,4 @@
-package module2.level_01;
+package module2.level_01_oop1;
 
 public class Person {
     private String firstName;
