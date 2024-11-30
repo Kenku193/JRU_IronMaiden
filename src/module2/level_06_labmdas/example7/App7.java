@@ -32,7 +32,7 @@ public class App7 {
                 .stream() // 1 ЗАПУСТИЛИ ПОТОК ДАННЫХ
                 .filter(car -> car.color.equals(Color.RED)) // ФИЛЬТР ПО ЦВЕТУ
                 .filter(car -> car.year > 2010) // ФИЛЬТР ПО ГОДУ
-                .collect(Collectors.toList()); // СОБРАЛИ РЕУЗЛТАТ
+                .collect(Collectors.toList()); // СОБРАЛИ РЕЗУЛЬТАТ
 
         System.out.println(collect);
 
