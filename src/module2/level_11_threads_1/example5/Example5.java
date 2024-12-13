@@ -23,6 +23,7 @@ class Thready extends Thread {
 
     @Override
     public void run() {
+
         while (true) {
             System.out.println("Tik");
             System.out.println("Tak");

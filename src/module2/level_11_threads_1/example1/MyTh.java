@@ -4,7 +4,7 @@ public class MyTh extends Thread {
     @Override
     public void run() { // ХРАНИЛИЩЕ КОДА, КОТОРЫЙ МОЖЕТ ВЫПОЛНЯТЬСЯ МНОГОПОТОЧНО (ПАРАЛЛЕЛЬНО)
 
-        // ЗАДАЧВ (TASK)
+        // ЗАДАЧА (TASK)
         for (int i = 0; i < 500; i++) {
             System.out.println("Шаг цикла №" + i + " поток " + Thread.currentThread().getName());
         }

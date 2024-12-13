@@ -6,3 +6,4 @@ public class Decrypt implements Runnable {
         System.out.println("ДЕШИФРУЮ");
     }
 }
+

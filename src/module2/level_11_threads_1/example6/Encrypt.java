@@ -7,3 +7,4 @@ public class Encrypt implements Runnable{
         System.out.println("ШИФРУЮ");
     }
 }
+

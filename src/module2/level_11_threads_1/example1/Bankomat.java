@@ -5,4 +5,5 @@ public class Bankomat extends Thread {
     public void run() {
         System.out.println("ВЫДАТЬ ДЕНЬГИ");
     }
+
 }

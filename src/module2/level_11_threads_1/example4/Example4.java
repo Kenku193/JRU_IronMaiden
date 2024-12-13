@@ -22,7 +22,4 @@ public class Example4 {
         System.out.println("Я работаю в потоке " + Thread.currentThread().getName());
 
     }
-
 }
-
-

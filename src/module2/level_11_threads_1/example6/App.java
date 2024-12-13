@@ -32,6 +32,5 @@ public class App {
         // СТАТ АНАЛИЗ НЕ МНОГОПОТОЧНЫЙ
         StatAnalysis s = new StatAnalysis();
         s.analyse(new File("ds"));
-
     }
 }

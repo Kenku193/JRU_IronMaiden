@@ -18,5 +18,6 @@ public class Example3 {
             System.out.println("ВЫДАНЫ ДЕНЬГИ " + Thread.currentThread().getName());
         }).start();
 
+
     }
 }

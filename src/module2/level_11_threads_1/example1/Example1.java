@@ -6,7 +6,6 @@ public class Example1 {
         MyTh myTh1 = new MyTh();
         myTh1.start();
 
-
         for (int i = 0; i < 500; i++) {
             System.out.println("Шаг цикла №" + i + " поток " + Thread.currentThread().getName());
         }

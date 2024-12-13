@@ -12,7 +12,5 @@ public class Example2 {
         thread1.start();
         thread2.start();
 
-
-
     }
 }
