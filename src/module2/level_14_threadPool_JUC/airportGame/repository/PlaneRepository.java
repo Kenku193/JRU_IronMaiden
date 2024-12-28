@@ -10,5 +10,5 @@ public class PlaneRepository {
     // ONAIR
     // LANDING - landing() - это часть многопоточной задачи
     // LANDED??? - planeList.remove(САМОЛЕТ) + Runway.addCount()
-    List<Plane> planeList = new ArrayList<>();
+   public List<Plane> planeList = new ArrayList<>();
 }
