@@ -61,6 +61,5 @@ public class AppAboutClass {
         } catch (InvocationTargetException e) {
             throw new RuntimeException(e);
         }
-
     }
 }

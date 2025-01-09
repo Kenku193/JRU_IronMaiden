@@ -51,6 +51,5 @@ public class AppAboutObject {
 
         int modifiers = declaredFieldNamba3.getModifiers();
         System.out.println(modifiers);
-
     }
 }
