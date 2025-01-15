@@ -22,6 +22,7 @@ public class AppAboutClass {
 //        }
 
         Field[] declaredFields = uClass.getDeclaredFields();
+
         for (int i = 0; i < declaredFields.length; i++) {
             System.out.println(declaredFields[i].getName());
         }
